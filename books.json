@@ -1,0 +1,20 @@
+[
+    {
+        "title": "ABC",
+        "author": "Kshitij",
+        "isbn": "215612",
+        "copies_available": 20
+    },
+    {
+        "title": "Game theory",
+        "author": "John",
+        "isbn": "2332",
+        "copies_available": 16
+    },
+    {
+        "title": "Computer Vision",
+        "author": "Unknown",
+        "isbn": "6767",
+        "copies_available": 6
+    }
+]
